@@ -1,6 +1,5 @@
 {
-  "cleanUrls": true,
-  "trailingSlash": false,
+ 
   "functions": {
     "api/test.php": {
       "runtime": "vercel-php@8.2.4"
